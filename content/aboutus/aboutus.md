@@ -1,7 +1,6 @@
 ---
 title: "Aboutus"
 date: 2018-04-13T13:13:54+02:00
-draft: true
 ---
 
 <h1>Hej med dig</h1>

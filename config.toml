@@ -1,4 +1,49 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "box"
+theme = "blank"
+
+
+[[menu.main]]
+name               	= "Home"
+weight             	= -201
+identifier         	= "home"
+url                	= "_index.html"
+
+
+[[menu.main]]
+name               	= "Projects"
+weight             	= -201
+identifier         	= "projects"
+url                	= "/projects/"
+
+[[menu.main]]
+name               	= "View container"
+weight             	= -101
+identifier         	= "view_container"
+url                	= "/view_container"
+
+
+[[menu.main]]
+name               	= "Sustanbility"
+weight             	= -101
+identifier         	= "Sustanbility"
+url                	= "/sustanbility.html"
+
+[[menu.main]]
+name               	= "About us"
+weight             	= -101
+identifier         	= "About us"
+url                	= "/about_us.html/"
+
+[[menu.main]]
+name               	= "Contact"
+weight             	= -101
+identifier         	= "contact"
+url                	= "/contact/"
+
+[[menu.main]]
+name               	= "Students"
+weight             	= -101
+identifier         	= "students"
+url                	= "/students/"
